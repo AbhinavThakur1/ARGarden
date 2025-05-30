@@ -1,0 +1,19 @@
+# ninja log v5
+50	3023	7702097586682224	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	c804357cae126561
+59	3037	7702097586887083	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	5300d2bd1debe17d
+78	3368	7702097590466393	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	8afcdb551f53b93a
+22	3196	7702097588487629	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	39a3f18c0379107c
+3391	3571	7702097592576327	C:/Users/Administrator/ARworld/Library/PramData/AndroidApplicationController/Cache/com.UnityTechnologies.com.unity.template.urpblank/gradle-project/unityLibrary/build/intermediates/cxx/Debug/5h4m43b6/obj/arm64-v8a/libgame.so	cdfd04640cacd8a6
+69	3301	7702097589792070	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	c4ce950ee4748389
+2	3270	7702097589399157	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	d041030b4cecfe42
+32	3292	7702097589558685	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	4ae5bc503b17562f
+40	3390	7702097590700390	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	79426ccdfe7a7b60
+32	1384	7702111299208044	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	39a3f18c0379107c
+50	1393	7702111299319526	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	5300d2bd1debe17d
+38	1424	7702111299614080	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	c4ce950ee4748389
+27	1427	7702111299691950	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	d041030b4cecfe42
+14	1443	7702111299852137	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	c804357cae126561
+57	1525	7702111300697198	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	8afcdb551f53b93a
+7	1588	7702111301304036	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	4ae5bc503b17562f
+44	1602	7702111301465696	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	79426ccdfe7a7b60
+1602	1714	7702111302619897	C:/Users/Administrator/ARworld/Library/PramData/AndroidApplicationController/Cache/com.UnityTechnologies.com.unity.template.urpblank/gradle-project/unityLibrary/build/intermediates/cxx/Debug/5h4m43b6/obj/arm64-v8a/libgame.so	cdfd04640cacd8a6
